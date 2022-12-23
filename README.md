@@ -1,2 +1,2 @@
 # pix-generator
-Projeto que gera Qr code para pagamento pix atraves de um payload diretamente da API oficial do Pix.
+Projeto que gera Qr code estático para pagamento pix atraves de um payload.
